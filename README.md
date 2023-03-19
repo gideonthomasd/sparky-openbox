@@ -1,4 +1,4 @@
-# sparky-openbox
+# sparky-openbox  (Testing Distribution)
 
 Download the testing distribution, the minimal-gui.
 
