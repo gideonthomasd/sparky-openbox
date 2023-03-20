@@ -1,0 +1,11 @@
+Terminal,alacritty,utilities-terminal
+Browser,brave-browser,brave-browser
+File manager,pcmanfm,system-file-manager
+Steam, steam, steam
+Scid Chess, scid, scid
+Virtual Manager, virt-manager, virt-manager
+Pycharm, pycharm, pycharm
+Libre Writer, libreoffice --writer, libreoffice-writer
+Timeshift, pkexec timeshift-gtk, timeshift
+Packages, lxterminal -e 'cd /usr/lib/sparky-aptus-appcenter && sudo /usr/lib/sparky-aptus-appcenter/aptus-appcenter', synaptic
+^sep()
