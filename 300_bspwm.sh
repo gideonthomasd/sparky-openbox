@@ -12,17 +12,17 @@ cd bspwm
 cp * -r ~/.config/bspwm
 cd ..
 
-cd polybar-bspwm
-chmod +x *.sh
-cd scripts
-chmod +x *.sh
-cd ..
-cd ..
+#cd polybar-bspwm
+#chmod +x *.sh
+#cd scripts
+#chmod +x *.sh
+#cd ..
+#cd ..
 
-mkdir -p ~/.config/polybar-bspwm
-cd polybar-bspwm
-cp * -r ~/.config/polybar-bspwm
-cd ..
+#mkdir -p ~/.config/polybar-bspwm
+#cd polybar-bspwm
+#cp * -r ~/.config/polybar-bspwm
+#cd ..
 
 mkdir -p ~/.config/sxhkd
 cd sxhkd
