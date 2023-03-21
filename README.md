@@ -12,3 +12,5 @@ Click and change to system tray.
 
 In playlist go to 'Title Format' and change to 'Title-Artist'
 
+You might need to change audio to pulseaudio
+
