@@ -2,6 +2,6 @@
 Lock,i3lock-fancy -p,system-lock-screen
 Exit,^checkout(exit),system-shutdown
 ^tag(exit)
-Logout,pkill bspwm || pkill bspwm,system-log-out
+Logout,pkill bspwm || pkill openbox,system-log-out
 Reboot,systemctl -i reboot,system-reboot
 Poweroff, systemctl -i poweroff,system-shutdown
